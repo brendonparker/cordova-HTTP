@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 // Modified by Andrew Stephan
 #import <Foundation/Foundation.h>
-#import "AFHTTPRequestOperationManager.h"
+#import <AFNetworking/AFNetworking.h>
 
 @interface HttpManager : AFHTTPRequestOperationManager 
 
